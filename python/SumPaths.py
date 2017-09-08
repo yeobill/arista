@@ -11,9 +11,9 @@ class TestSumPaths(unittest.TestCase):
   # Write some more test cases
 
 class Node:
-  def __init__(self, value=None, left=None, right=None):
-    self.left = None
-    self.right = None
+  def __init__(self, value=0, left=None, right=None):
+    self.left = left
+    self.right = right
     self.value = value
 
   def sumPaths(self):
