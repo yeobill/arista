@@ -14,9 +14,9 @@ For example, the tree below has the following paths:
                            \
                             9
 
-1->4->3, which creates the number 143
-1->4->7->9, which creates the number 1479.
-1->5, which creates the number 15.
+1->4->3, which creates the number 143.  
+1->4->7->9, which creates the number 1479.  
+1->5, which creates the number 15.  
 
 The sum for this tree is 143 + 1479 + 15 = 1637
 
