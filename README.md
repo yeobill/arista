@@ -41,6 +41,6 @@ You may delete your solution repository once the interview process is over.
 If you are unable to create a Github account or are unable to create any more private repositories you may also email your solutions along with your resume and transcript, though we strongly prefer the above repository based workflow.
 
 ## Deadline
-If you would like to be considered for on campus interviews on Monday September 18th, please submit this by **Wednesday, September 13th 11:59PM PDT**. Otherwise, if we decide to move forward with your application, we will schedule phone interviews on a rolling basis.
+The deadline for submission is **Wednesday, September 13th 11:59PM PDT**. If we decide to move forward with your application, we will schedule on campus interviews on Monday, September 18th or phone interviews over the next few weeks.
 
 Please email us a copy of your resume and transcript once you have completed your solution.
