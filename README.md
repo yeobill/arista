@@ -29,11 +29,13 @@ Where applicable, return -1 if sumPaths is called on a null tree.
 Please implement your solution in C11, Java 8, or Python 2.7 using only the standard library of these languages. There is skeleton code with a simple test case for each of these languages in this repository.
 
 ## Getting started
-To get started, clone (not fork) this repository. At the top of the README, state which language your solution will be in.
+To get started, **clone** (not fork) this repository. At the top of the README, state which language your solution will be in.
 
 ## Submission
-When you are finished with your solution, edit this README push it to a private Github repository and add [alexliu](https://github.com/alexaliu), Arista team member, as a collaborator.
+When you are finished with your solution, edit this README, push it to a private Github repository and add [alexliu](https://github.com/alexaliu) and [jasonwang](https://github.com/jasonewang), as collaborators.
 
 You may delete your solution repository once the interview process is over.
 
 If you are unable to create a Github account or are unable to create any more private repositories you may also email your solutions along with your resume and transcript, though we strongly prefer the above repository based workflow.
+
+Once this is done, please remember to email us a copy of your transcript and resume.
