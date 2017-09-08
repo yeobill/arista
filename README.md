@@ -21,9 +21,9 @@ For example, the tree below has the following paths:
 The sum for this tree is 143 + 1479 + 15 = 1637
 
 ## What You'll Do
-Your job is to implement the function sumPaths, which given a root to a binary tree, will return the sum of all of the paths. Be sure to write tests.
+Your job is to implement the function sumPaths, which given a root to a binary tree, will return the sum of all of the paths. Be sure to write additional tests.
 
-You may assume all node values will be between 0 and 9.
+You may assume all node values will be between 0 and 9.  
 Return -1 if sumPaths is called on a null tree.
 
 Please implement your solution in C11, Java 8, or Python 2.7 using only the standard library of these languages. There is skeleton code with a simple test case for each of these languages in this repository.
