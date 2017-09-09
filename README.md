@@ -34,7 +34,7 @@ To get started, **clone** (not fork) this repository. At the top of the README, 
 We're expecting the question to take 30 minutes to an hour. We don't want you to waste a bunch of time finding a perfect solution to this, so if you're finding that it's taking much longer than that, please feel welcome to submit a non-complete solution. If you do so, please do include pseudocode and comments explaining your thoughts and ideas, and expected test cases/edge cases.
 
 ## Submission
-When you are finished with your solution, edit this README, push it to a private Github repository, and add [alexaliu](https://github.com/alexaliu) and [jasonewang](https://github.com/jasonewang) as collaborators.
+When you are finished with your solution, edit this README, push it to a private Github repository, and add [alexaliu](https://github.com/alexaliu) and [jasonewang](https://github.com/jasonewang) as collaborators. **Include your Github username in the email with your resume and transcript.**
 
 You may delete your solution repository once the interview process is over.
 
