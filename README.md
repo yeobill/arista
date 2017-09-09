@@ -9,21 +9,21 @@ For example, the tree below has the following paths:
                           /   \
                          /     \
                         4       5
-                       / \  
-                      3   7  
+                       / \
+                      3   7
                            \
                             9
 
-1->4->3, which creates the number 143.  
-1->4->7->9, which creates the number 1479.  
-1->5, which creates the number 15.  
+1->4->3, which creates the number 143.
+1->4->7->9, which creates the number 1479.
+1->5, which creates the number 15.
 
 The sum for this tree is 143 + 1479 + 15 = 1637
 
 ## What You'll Do
 Your job is to implement the function sumPaths, which given a root to a binary tree, will return the sum of all of the paths. Be sure to write additional tests.
 
-You may assume all node values will be between 0 and 9.  
+You may assume all node values will be between 0 and 9.
 Where applicable, return -1 if sumPaths is called on a null tree.
 
 Please implement your solution in C11, Java 8, or Python 2.7 using only the standard library of these languages. There is skeleton code with a simple test case for each of these languages in this repository.
@@ -34,7 +34,7 @@ To get started, **clone** (not fork) this repository. At the top of the README, 
 We're expecting the question to take 30 minutes to an hour. We don't want you to waste a bunch of time finding a perfect solution to this, so if you're finding that it's taking much longer than that, please feel welcome to submit a non-complete solution. If you do so, please do include pseudocode and comments explaining your thoughts and ideas, and expected test cases/edge cases.
 
 ## Submission
-When you are finished with your solution, edit this README, push it to a private Github repository, and add [alexliu](https://github.com/alexaliu) and [jasonwang](https://github.com/jasonewang) as collaborators.
+When you are finished with your solution, edit this README, push it to a private Github repository, and add [alexaliu](https://github.com/alexaliu) and [jasonewang](https://github.com/jasonewang) as collaborators.
 
 You may delete your solution repository once the interview process is over.
 
