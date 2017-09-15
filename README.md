@@ -36,7 +36,7 @@ We're expecting the question to take 30 minutes to an hour. We don't want you to
 ## Submission
 When you are finished with your solution, edit this README, push it to a private Github repository. As a student, you are eligible for the [Github Student Developer Pack](https://education.github.com/pack), which includes unlimited private repositories.
 
-Once you've pushed to your private repository, add [alexaliu](https://github.com/alexaliu) and [jasonewang](https://github.com/jasonewang) as collaborators. **Include a link to your Github repository in the email with your resume and transcript.**
+Once you've pushed to your private repository, add [alexaliu](https://github.com/alexaliu) and [jasonewang](https://github.com/jasonewang) as collaborators. **Fill out the Google Form when you're finished, attaching your resume and transcript.**
 
 You may delete your solution repository once the interview process is over.
 
